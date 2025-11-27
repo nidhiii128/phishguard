@@ -1,0 +1,20 @@
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+# Windows/Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+# Editor & notebook
+.ipynb_checkpoints/
+.vscode/
+# Secrets & env files
+.env
+# Distribution / packaging
+build/
+dist/
+pip-wheel-metadata/
